@@ -94,9 +94,9 @@ src/
 
 ## 👨‍💻 Author
 
-**Emmanuel Appiah **  
+**Emmanuel Appiah**  
 Frontend Developer | React | TypeScript | UI/UX  
-[💼 LinkedIn]([https://www.linkedin.com/in/mrappiah/])
+[💼 LinkedIn](https://www.linkedin.com/in/mrappiah/)
 
 ---
 
