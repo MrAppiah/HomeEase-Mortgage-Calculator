@@ -51,6 +51,7 @@ npm run build
 ---
 
 ## 🧠 Project Structure
+```bash
 src/
 ├── components/
 │ ├── MortgageCalculator.tsx # Calculator form and logic
@@ -65,6 +66,7 @@ src/
 ├── App.tsx # App layout, navbar, and routes
 ├── index.tsx # Entry point with BrowserRouter
 └── index.css # Tailwind global styles
+ ```
 
 ---
 
