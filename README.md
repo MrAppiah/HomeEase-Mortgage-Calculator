@@ -32,7 +32,7 @@ Users can input financial details, instantly view monthly repayments, and see a 
 
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/MrAppiah/homeease-mortgage-calculator.git
 cd homeease-mortgage-calculator
 
@@ -44,7 +44,7 @@ Then open http://localhost:5173/ in your browser.
 
 ### 4️⃣ Build for production
 npm run build
-```bash 
+
 
 ---
 
