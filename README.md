@@ -30,6 +30,7 @@ Users can input financial details, instantly view monthly repayments, and see a 
 
 ## ⚙️ Installation & Setup
 
+
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/MrAppiah/homeease-mortgage-calculator.git
