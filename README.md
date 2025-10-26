@@ -32,5 +32,76 @@ Users can input financial details, instantly view monthly repayments, and see a 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/homeease-mortgage-calculator.git
+git clone https://github.com/MrAppiah/homeease-mortgage-calculator.git
 cd homeease-mortgage-calculator
+
+### 2️⃣ npm install
+
+### 3️⃣ Start the development server
+npm run dev
+Then open http://localhost:5173/ in your browser.
+
+### 4️⃣ Build for production
+npm run build
+---
+
+## 🧠 Project Structure
+src/
+├── components/
+│ ├── MortgageCalculator.tsx # Calculator form and logic
+│ └── MortgageDashboard.tsx # Visualization and summary
+│
+├── context/
+│ └── MortgageContext.tsx # Global mortgage state provider
+│
+├── hooks/
+│ └── useMortgage.tsx # Custom React hook for context access
+│
+├── App.tsx # App layout, navbar, and routes
+├── index.tsx # Entry point with BrowserRouter
+└── index.css # Tailwind global styles
+
+---
+
+## 📸 Screenshots
+
+| Calculator | Dashboard |
+|-------------|------------|
+| ![Mortgage Calculator Screenshot](./assets/calculator.png) | ![Mortgage Dashboard Screenshot](./assets/dashboard.png) |
+
+*(Save your screenshots to `/src/assets/` or `/public/` and update the paths above.)*
+
+---
+
+## 💡 Key Highlights
+
+- Implemented **global mortgage state** using React Context + custom hooks.  
+- Built a clean, **fully responsive UI** with Tailwind CSS.  
+- Created interactive **data visualization** using Recharts.  
+- Applied **modern React best practices** (functional components, hooks, and context).  
+- Used **TypeScript** to ensure strong typing and maintainable code.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Strengthened understanding of **React state management** patterns.  
+- Practiced **type-safe development** with TypeScript.  
+- Enhanced skills in **UI/UX design** with Tailwind and responsive layout building.  
+- Gained experience integrating **data visualization libraries** in React apps.  
+
+---
+
+## 👨‍💻 Author
+
+**Emmanuel Appiah **  
+Frontend Developer | React | TypeScript | UI/UX  
+[💼 LinkedIn]([https://www.linkedin.com/in/mrappiah/])
+
+---
+
+## 🪪 License
+This project is open-source under the **MIT License**.
+
+
+
