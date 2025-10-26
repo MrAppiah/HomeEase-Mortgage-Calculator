@@ -1,6 +1,6 @@
 # 🏡 HomeEase – Mortgage Calculator & Dashboard
 
-**HomeEase** is a responsive **React + TypeScript** web application designed to simplify mortgage estimation and visualization.  
+**HomeEase** is a responsive **React + TypeScript** web application designed to simplify mortgage estimation and visualisation.  
 Users can input financial details, instantly view monthly repayments, and see a clear breakdown of **principal vs. interest** through an interactive dashboard.
 
 ---
@@ -10,7 +10,7 @@ Users can input financial details, instantly view monthly repayments, and see a 
 - 💰 **Interactive Mortgage Calculator** – Instantly calculates monthly payments based on property price, deposit, term, and interest rate.  
 - 📊 **Visual Dashboard** – Displays a dynamic **pie chart** of principal vs. total interest using Recharts.  
 - 🧠 **Smart Global State Management** – Built with React Context and a custom hook (`useMortgage`).  
-- 📱 **Responsive Design** – Fully optimized for both mobile and desktop layouts via Tailwind CSS.  
+- 📱 **Responsive Design** – Fully optimised for both mobile and desktop layouts via Tailwind CSS.  
 - ⚡ **Fast + Type-Safe** – Powered by Vite and TypeScript for speed and developer confidence.
 
 ---
