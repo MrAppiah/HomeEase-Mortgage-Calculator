@@ -35,13 +35,13 @@ Users can input financial details, instantly view monthly repayments, and see a 
 git clone https://github.com/MrAppiah/homeease-mortgage-calculator.git
 cd homeease-mortgage-calculator
 
-2️⃣ npm install
+### 2️⃣ npm install
 
-3️⃣ Start the development server
+### 3️⃣ Start the development server
 npm run dev
 Then open http://localhost:5173/ in your browser.
 
-4️⃣ Build for production
+### 4️⃣ Build for production
 npm run build
 ---
 
