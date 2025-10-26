@@ -44,6 +44,8 @@ Then open http://localhost:5173/ in your browser.
 
 ### 4️⃣ Build for production
 npm run build
+```bash 
+
 ---
 
 ## 🧠 Project Structure
