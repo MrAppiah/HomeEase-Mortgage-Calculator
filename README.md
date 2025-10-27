@@ -149,8 +149,7 @@ src/
 
 | Calculator | Dashboard |
 |-------------|------------|
-| ![Mortgage Calculator Screenshot](./assets/calculator.png) | ![Mortgage Dashboard Screenshot](./assets/dashboard.png) |
-
+| ![Mortgage Calculator Screenshot](./src/assets/calculator.png) | ![Mortgage Dashboard Screenshot](./src/assets/dashboard.png) |
 
 ---
 
