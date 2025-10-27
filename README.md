@@ -1,5 +1,7 @@
 # 🏡 HomeEase – Mortgage Calculator & Dashboard
 
+**Live Demo:** 👉 [https://homeease-mortgage-calculat.netlify.app](https://homeease-mortgage-calculat.netlify.app)
+
 **HomeEase** is a responsive **React + TypeScript** web application designed to simplify mortgage estimation and visualisation.  
 Users can input financial details, instantly view monthly repayments, and see a clear breakdown of **principal vs. interest** through an interactive dashboard.
 
