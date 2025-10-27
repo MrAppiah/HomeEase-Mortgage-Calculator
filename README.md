@@ -151,7 +151,6 @@ src/
 |-------------|------------|
 | ![Mortgage Calculator Screenshot](./assets/calculator.png) | ![Mortgage Dashboard Screenshot](./assets/dashboard.png) |
 
-*(Save your screenshots to `/src/assets/` or `/public/` and update the paths above.)*
 
 ---
 
